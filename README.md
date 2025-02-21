@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saeid ahmadi
+- 👋 Hi, I’m saeid ahmadi
 - 👀 I’m interested in structural engineer
 - 🌱 I’m currently learning Structural analysis and structural dynamics
 - 💞️ I’m looking to collaborate on Civil engineering students and graduates
